@@ -1,8 +1,1 @@
-- George Washington
-- John Adams
-- Thomas Jefferson
-
-
-* George Washington
-* John Adams
-* Thomas Jefferson
+<learn more::http://wikipedia.com>
