@@ -1,2 +1,3 @@
 
-[http://wikipedia.com](learn more)
+<a learn more @ http://wikipedia.com>
+
