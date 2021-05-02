@@ -1,2 +1,1 @@
-[Check out this COOL penguin!](/images/penguins.jpg)
-
+# Second-level Header Text
