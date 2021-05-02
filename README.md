@@ -1,2 +1,2 @@
-![penguin.jpg](Check out this COOL penguin)
+[penguin.jpg](Check out this COOL penguin)
 
