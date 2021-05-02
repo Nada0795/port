@@ -1,2 +1,2 @@
-[penguin.jpg](Check out this COOL penguin)
+[Check out this COOL penguin!](/images/penguins.jpg)
 
