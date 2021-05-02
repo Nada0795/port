@@ -1,2 +1,2 @@
 
-(learn more)[http://wikipedia.com]
+[http://wikipedia.com](learn more)
