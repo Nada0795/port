@@ -1,2 +1,2 @@
-(http://wikipedia.com)[learn more]
+![Check out this COOL penguin!](/images/penguins.jpg)
 
